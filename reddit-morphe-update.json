@@ -1,6 +1,6 @@
 {
-  "version": "v2026.04.0 (patches 1.20.0.mpp)",
-  "versionCode": 20221048,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221048/reddit-morphe-module-v2026.04.0-all.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v2026.04.0 (patches 1.23.0.mpp)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/rray1955/Revanced/releases/download/1/reddit-morphe-module-v2026.04.0-all.zip",
+  "changelog": "https://raw.githubusercontent.com/rray1955/Revanced/update/build.md"
 }
